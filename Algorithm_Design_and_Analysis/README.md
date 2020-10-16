@@ -1,6 +1,6 @@
 ## Algorithm Design and Analysis
 
-## *Course Outline*
+### *Course Outline*
 
 Week 1 - Algorithm design techniques – incremental and divide-and-conquer algorithms. Sorting and selection algorithms. Analysis of data structures – hash tables, heaps, and binary search trees
 Week 2 - Algorithm design paradigms – Dynamic programming and greedy algorithms
