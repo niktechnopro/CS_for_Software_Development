@@ -88,8 +88,7 @@ public class WhackAMole {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		// Initializing the game by a 10 x 10 grid and
-        // 50 attempts.
+		// Initializing the game by a 10 x 10 grid and give user 2 attempts
 		WhackAMole mole = new WhackAMole(2, 10);
 		
 		// Randomly place 10 moles.
