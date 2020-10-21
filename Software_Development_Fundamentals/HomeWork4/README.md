@@ -1,4 +1,4 @@
-### Purpose of Homework is to learn of how objects interact with each other
+### modified version of the classic game *Battleship*
 
 ### Step to complete an assignment:
 
