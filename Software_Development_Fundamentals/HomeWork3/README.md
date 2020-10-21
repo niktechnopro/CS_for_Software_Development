@@ -2,13 +2,13 @@
 
 ### Step to complete an assignment:
 
-* Create a new instance of a movieDatabase.
+* Create a new instance of a movieDatabase
 
-* Add all the movies in the file movies.txt.
+* Add all the movies in the file movies.txt
 
-* Go through the ratings of the movies in the file ratings.txt and add the ratings for the movies.
+* Go through the ratings of the movies in the file ratings.txt and add the ratings for the movies
 
-* Now call the methods that you created and print out the name of the best actor and the name of the highest rated movie.
+* Now call the methods that you created and print out the name of the best actor and the name of the highest rated movie
 
 
 ### Results are:
