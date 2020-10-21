@@ -1,12 +1,12 @@
-### modified version of the classic game *Battleship*
+### Modified version of the classic game *Battleship*
 
-### Step to complete an assignment:
+### In this game we have:
 
-* Create a new instance of a movieDatabase
-
-* Add all the movies in the file movies.txt
-
-* Go through the ratings of the movies in the file ratings.txt and add the ratings for the movies
-
-* Now call the methods that you created and print out the name of the best actor and the name of the highest rated movie
+* 20x20 ocean
+* one 8-square Battleship
+* one 7-square Battlecruiser
+* two 6-square Cruisers
+* two 5-square Light Cruisers
+* three 4-square Destroyers
+* four 3-square Submarines
 
