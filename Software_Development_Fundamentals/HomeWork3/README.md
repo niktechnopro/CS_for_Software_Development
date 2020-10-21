@@ -10,7 +10,6 @@
 
 * Now call the methods that you created and print out the name of the best actor and the name of the highest rated movie
 
-
 ### Results are:
 * The best actor is: Marlon Brando
 * The best movie is: Maltese Falcon
