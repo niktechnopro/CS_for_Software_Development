@@ -1,4 +1,4 @@
-# CS_for_Software_Development
+# CS for Software Development
 
 ## Consists of four courses:
 
