@@ -1,4 +1,4 @@
-## In this assignment, we will implement methods used for exploring graphs
+## Graphs model relationships between objects
 
 ### The goal of this assignment:
 * ### To become more familiar with the “adjacency set” representation of a graph
