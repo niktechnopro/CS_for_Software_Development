@@ -1,6 +1,6 @@
 # CS for Software Development
 
-## Consists of four courses:
+## This program consists of four courses:
 
 * ### Software Development Fundamentals
 * ### Data Structures and Software Design
