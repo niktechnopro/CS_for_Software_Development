@@ -7,8 +7,4 @@
 * ### To enhance understanding of the behavior and efficiency of various data structures
 
 
-## Certificate of completion
-
-https://courses.edx.org/certificates/c6e497fd255048d4b3ad4191af89556c
-
 
