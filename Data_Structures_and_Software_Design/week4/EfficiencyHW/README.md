@@ -4,6 +4,6 @@
 
 * ### Tp apply learned techniques in the lessons to improve the efficiency of code
 * ### To get more experience understanding and modifying existing code
-* ### To enhance the understanding of behavior and efficiency of various data structures
+* ### To enhance understanding of the behavior and efficiency of various data structures
 
 
