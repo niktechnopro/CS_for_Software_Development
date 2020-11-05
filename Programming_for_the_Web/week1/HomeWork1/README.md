@@ -4,5 +4,5 @@
 
 * ### To gain experience reading, understanding, and working with existing HTML
 
-* ### To apply CSS classes and styling
+* ### To apply CSS classes and styling 
 
