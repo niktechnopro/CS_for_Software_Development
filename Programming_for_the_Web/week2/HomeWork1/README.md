@@ -1,4 +1,4 @@
-## Implementing basic JS functions
+## Implementing basic JS
 
 ### The goals of this assignment
 
