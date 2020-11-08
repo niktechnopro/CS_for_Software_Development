@@ -6,4 +6,4 @@
 
 * ### To define callback functions that are invoked as the result of user actions in the HTML page
 
-* ### To use callback functions to modify the attributes of HTML elements
+* ### To use these callback functions to modify the attributes of HTML elements
