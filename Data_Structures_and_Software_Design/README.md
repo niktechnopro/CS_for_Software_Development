@@ -1,8 +1,6 @@
 ## Data Structures and Software Design
 
-## Certificate of completion
-
-### https://courses.edx.org/certificates/c6e497fd255048d4b3ad4191af89556c
+## Certificate of completion: https://courses.edx.org/certificates/c6e497fd255048d4b3ad4191af89556c
 
 ### *Course Outline*
 
