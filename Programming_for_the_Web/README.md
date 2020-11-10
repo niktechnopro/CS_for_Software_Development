@@ -1,6 +1,6 @@
 ## Programming for the Web with JavaScript
 
-* ### Certifcate of completion: https://courses.edx.org/certificates/a0d240e11afb4c6c818bbeb43e1e851a
+## Certifcate of completion: https://courses.edx.org/certificates/a0d240e11afb4c6c818bbeb43e1e851a
 
 ### *Course Outline*
 * ### *Week 1* - Web Programming Basics: how web browsers and servers communicate using HTTP; creating static web content with HTML and CSS
