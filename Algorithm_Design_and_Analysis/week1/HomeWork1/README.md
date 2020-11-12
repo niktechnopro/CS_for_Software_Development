@@ -1,4 +1,4 @@
-## Mergesort, Quickselect, Min heaps
+## Mergesort, Quickselect, Min heap
 
 ### The goal of this assignment is to correctly implement the following
 
