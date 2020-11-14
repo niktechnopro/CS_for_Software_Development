@@ -1,6 +1,6 @@
 # CS for Software Development
 
-## Certificate of completion - https://credentials.edx.org/records/programs/shared/3201d866161c455da99ea9c9c5d460aa/
+## Certificate of program completion - https://credentials.edx.org/records/programs/shared/3201d866161c455da99ea9c9c5d460aa/
 
 ## This program consists of four courses:
 
