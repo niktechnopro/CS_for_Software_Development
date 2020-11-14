@@ -1,5 +1,7 @@
 ## Algorithm Design and Analysis
 
+## Certificate of completion - https://courses.edx.org/certificates/1a4ed2be270d4ee0b5e4b4690eff778c
+
 ### *Course Outline*
 
 * ### *Week 1* - Algorithm design techniques – incremental and divide-and-conquer algorithms. Sorting and selection algorithms. Analysis of data structures – hash tables, heaps, and binary search trees
