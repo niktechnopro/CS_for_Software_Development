@@ -1,2 +1,2 @@
-# fix for Linguist as this course has 62 files in Java and only 4 in HTML:
+# fix for Linguist as this course has 62 Java files and only 4 in HTML:
 *.html linguist-language=Java
